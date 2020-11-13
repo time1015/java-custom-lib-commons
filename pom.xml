@@ -30,7 +30,7 @@
 
   <groupId>me.time1015.libs</groupId>
   <artifactId>commons-pom</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>pom</packaging>
 
   <name>${project.groupId}.${project.artifactId}</name>

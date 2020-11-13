@@ -1,3 +1,8 @@
+# 1.0.1
+
+* Updated deploy script to skip tests during deployment
+* Hooked licensing information to build lifecycle
+
 # 1.0.0
 
 * Initial version
