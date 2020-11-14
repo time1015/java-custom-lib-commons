@@ -1,3 +1,7 @@
+# 1.0.2
+
+* Included building of source and javadoc artifacts during jar packaging
+
 # 1.0.1
 
 * Updated deploy script to skip tests during deployment
